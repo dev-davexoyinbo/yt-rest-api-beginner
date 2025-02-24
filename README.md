@@ -6,8 +6,8 @@ This is a simple Express-based blog API that allows users to create, read, updat
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo.git
-   cd your-repo
+   git clone git@github.com:dev-davexoyinbo/yt-rest-api-beginner.git 
+   cd yt-rest-api-beginner
    ```
 2. Install dependencies:
    ```sh
@@ -15,9 +15,9 @@ This is a simple Express-based blog API that allows users to create, read, updat
    ```
 3. Start the server:
    ```sh
-   npm start
+   npm run server
    ```
-   The API will run on `http://localhost:3000`
+   The API will run on `http://localhost:3003`
 
 ## Endpoints
 
